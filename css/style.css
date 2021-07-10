@@ -22,16 +22,16 @@ body {
 }
 
 .snakeBody {
-    background: url('../img/snakeBody.jpg');
+    background: url('img/snakeBody.jpg');
     background-size: cover;
 }
 
 .snakeHead {
-    background: url('../img/shakeHead.png');
+    background: url('img/shakeHead.png');
     background-size: cover;
 }
 
 .apple {
-    background: url('../img/apple.jpg');
+    background: url('img/apple.jpg');
     background-size: cover;
 }
